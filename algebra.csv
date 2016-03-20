@@ -1,0 +1,249 @@
+Chapter,Part,ID,Type,Prompt,Name/Problem,Description/Solution
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,494a98e3-ad2b-4f3d-b21f-38a222cf6392,DEFINITION,,Natural Numbers,"The set of counting numbers { 1, 2, 3, 4, 5, …}."
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,384110f3-6111-4614-95a2-4726bb08b5c2,DEFINITION,,Whole Numbers,"Natural numbers combined with zero  { 0, 1, 2, 3, 4, 5, …}."
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,38c86c18-1e18-4593-acea-b883ccb264bd,DEFINITION,,Integers,"Positive and negative whole numbers including zero {…,−5, −4, −3,−2, −1, 0, 1, 2, 3, 4, 5…}."
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,698ca794-7c7a-493f-968d-7f82f9502a01,DEFINITION,,Rational Numbers,Any number of the form a/b where a and b are integers where b is not equal to zero.
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,5d411db0-1f84-4d41-b9f6-5baa1968cbdc,DEFINITION,,Irrational Numbers,Numbers that cannot be written as a ratio of two integers.
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,94c1e8a5-82d4-48d0-9316-0c8a6e82deca,DEFINITION,,inequalities,"express the relationship between numbers:
+<   ""less than""
+>   ""greater than""
+≤   ""less than or equal to""
+≥   ""greater than or equal to"""
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,ea4c4221-dcb0-4468-8536-8ed365b9e8eb,PROBLEM,"Write the appropriate symbol, either < or >.",-2 _ -12,http://1.bp.blogspot.com/--R3ZbTClmrs/UJHvS-quxeI/AAAAAAAACcY/wtN5X-xZijg/s1600/ex01-01002.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,1ebfaba7-c2cd-4b26-9b1a-ca40bffa0896,PROBLEM,"Write the appropriate symbol, either < or >.",-48 _ 0,http://2.bp.blogspot.com/-I6Kp9romTnE/UJHvY9cBEbI/AAAAAAAACcg/WHlkDVkLnPo/s1600/ex01-01003.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,0016ea34-ae92-4eb1-abce-e3490d805292,PROBLEM,"Write the appropriate symbol, either < or >.",2 _ 12,http://2.bp.blogspot.com/-nKcNmFLXaYU/UJHvN4QSKBI/AAAAAAAACcQ/csuBd7ZQcyM/s1600/ex01-01001.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,804981b2-5c23-4764-a766-d9855ca9f1a0,PROBLEM,List three integers satisfying the given statement,Less than -5,http://3.bp.blogspot.com/-OEkw1VOpOZE/UJHv6mgd0HI/AAAAAAAACco/PtsS52wXb0I/s1600/ex01-01004.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,771976b7-f3f3-4bd0-a75b-330e50a0859c,PROBLEM,List three integers satisfying the given statement,Greater than -2,http://1.bp.blogspot.com/-Qs-u8hgF424/UJHwDiLvogI/AAAAAAAACcw/Xw1_Tni8GCA/s1600/ex01-01005.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,e754ce86-919d-43e6-8ece-9f3e7597d08d,PROBLEM,List three integers satisfying the given statement,Between -2 and 7,http://2.bp.blogspot.com/-SaUK752xegY/UJHwHwxdD-I/AAAAAAAACc4/HpwhK5etzIU/s1600/ex01-01006.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,e9c3f1f6-46e3-4910-8806-ff7edd5d496f,DEFINITION,,Absolute Value,"The distance between 0 and the real number a on the number line, denoted |a|. Because the absolute value is defined to be a distance, it will always be positive. It is worth noting that |0| = 0."
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,0a83e26d-cd39-49f5-b24c-02348dfa429f,PROBLEM,,|-1000|,http://3.bp.blogspot.com/-iEEfzzLyHDQ/UJHwSuS23II/AAAAAAAACdA/QL3RhCAHIQE/s1600/ex01-01009.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,0632eea2-7662-439e-8e81-6e3a1d38be47,PROBLEM,,|-15|,http://2.bp.blogspot.com/-lbJiEpu6EW4/UJHwXfzogEI/AAAAAAAACdI/_Jla8rJfgko/s1600/ex01-01007.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,b8e26782-0e93-44e0-a2e0-2ee330fa40e1,PROBLEM,,|100|,http://2.bp.blogspot.com/-JV0RIC5RKOc/UJHwb_-xwgI/AAAAAAAACdQ/DTPhxtZY9TM/s1600/ex01-01008.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,b39b352d-18ab-4b03-879b-0e879fb56306,PROBLEM,,|?| = 5,http://1.bp.blogspot.com/-SEn8kpTObKw/UJHwkp7ZA-I/AAAAAAAACdY/ptCQTVo_5Rk/s1600/ex01-01010.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,bda5e076-ea50-48da-966f-6ac4c96ac08e,PROBLEM,,3 * |?| = 12,http://1.bp.blogspot.com/-hJdopfU-Cik/UJHwo6hiPHI/AAAAAAAACdg/aCzATR3xP4g/s1600/ex01-01011.PNG
+1 - Real Numbers and Their Operations,1.1 Real Numbers and The Number Line,c5a2ada8-d29e-4ffd-b3e9-f924e2325bcd,PROBLEM,,|?| = -3,http://3.bp.blogspot.com/-mbWYAHT3570/UJHwtSX9qQI/AAAAAAAACdo/b7s7opET3qg/s1600/ex01-01012.PNG
+1 - Real Numbers and Their Operations,1.2 Adding and Subtracting Integers,cfb3e03e-e6b2-4951-8450-4bfdefbe2292,LESSON,,subtracting real numbers,"When first learning how to subtract real numbers, it is useful to think of this operation as adding opposite numbers.
+
+http://2.bp.blogspot.com/-P7_Qp9AjjtU/UJH199BHXnI/AAAAAAAACeI/9eJLk1klSjA/s1600/ex01-0101.PNG
+
+Two sequential negative signs, as seen above, is equivalent to addition. When adding two negative numbers the result will be negative."
+1 - Real Numbers and Their Operations,1.2 Adding and Subtracting Integers,f9ef9645-6bac-4428-8e52-755f0853071f,RULE,,Two sequential negative signs is equivalent to _.,addition
+1 - Real Numbers and Their Operations,1.2 Adding and Subtracting Integers,7aaead3b-e5d9-43f8-b6a8-aa46b126908a,PROBLEM,Add and Subtract.,-4 - 5 + (-3),http://1.bp.blogspot.com/-AIbKJv8Q7jQ/UJH2E6843eI/AAAAAAAACeQ/c0WNA_fd_bQ/s1600/ex01-0104.PNG
+1 - Real Numbers and Their Operations,1.2 Adding and Subtracting Integers,9aa3241d-585c-4390-a12c-5de896aa0f3d,PROBLEM,Add and Subtract.,-3 - 9 + 5,http://1.bp.blogspot.com/-FfdDwMr-V3g/UJH2Im_w_-I/AAAAAAAACeY/9_LQi3tNMgE/s1600/ex01-0103.PNG
+1 - Real Numbers and Their Operations,1.2 Adding and Subtracting Integers,7c35a227-5ebf-40d7-9959-c7734de31507,PROBLEM,Add and Subtract.,7 + 12 - 5,http://1.bp.blogspot.com/-x_cw-OnVwuY/UJH2Me_f1wI/AAAAAAAACeg/PK-ZA0Ba4Vc/s1600/ex01-0102.PNG
+1 - Real Numbers and Their Operations,1.2 Adding and Subtracting Integers,75225c10-3e97-467e-a5d7-7fc7b25b45b1,PROBLEM,Add and Subtract.,4 - (-12) + (-8),http://1.bp.blogspot.com/-Qi_FLJyHxP0/UJH2cg4J_tI/AAAAAAAACew/24ItfvvBXnQ/s1600/ex01-0106.PNG
+1 - Real Numbers and Their Operations,1.2 Adding and Subtracting Integers,15a5bc79-3637-4714-bd05-48ae44aa29fa,PROBLEM,Add and Subtract.,20 - (-17) + (-10) - 6,http://2.bp.blogspot.com/-EzTzFdHV2d4/UJH2YsS_oYI/AAAAAAAACeo/yL_n1o4Zx40/s1600/ex01-0107.PNG
+1 - Real Numbers and Their Operations,1.2 Adding and Subtracting Integers,49191cd2-82cc-4c3f-9ad7-c66a6ab0cc26,PROBLEM,Add and Subtract.,-2 + (-7) - 4,http://4.bp.blogspot.com/-3U3SSTwf2BM/UJH2isikUkI/AAAAAAAACe4/gAH7OkmwMcM/s1600/ex01-0105.PNG
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,c5e4bdc6-b56c-430b-a5f4-cdfaafe38013,RULE,,Multiplying (or dividing) a negative number by a positive number will result in a _ number.,"negative
+
+(Negative) x (Positive) = (Negative) "
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,0eed50bf-ab77-4f56-824c-57bad1b79642,RULE,,Multiplying (or dividing) two negative numbers the result will be _.,"positive
+
+(Negative) x (Negative) = (Positive) "
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,c669cd79-cf2b-46fd-b1bd-4d73ffd36241,PROBLEM,Multiply or Divide.,0(-100),http://1.bp.blogspot.com/-a6vXM94IeQs/UJKX18seGzI/AAAAAAAACfc/Ttgq8Ds_uWE/s1600/ex01-0203.PNG
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,033cc014-6c3c-4611-b7c0-3a65fdb5d48b,PROBLEM,Multiply or Divide.,-5 * 12,http://2.bp.blogspot.com/-2L2kAHUbcrQ/UJKX6KtGvvI/AAAAAAAACfk/WUwAVpluZC8/s1600/ex01-0202.PNG
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,bf99c352-5b82-43fa-b261-25d0577d8ec4,PROBLEM,Multiply or Divide.,-2(-10),http://2.bp.blogspot.com/-hIulO_qrZ6E/UJKX-dqMeMI/AAAAAAAACfs/JtXSkPaL0xg/s1600/ex01-0201.PNG
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,39f4178f-b725-4e49-9e7e-40cf83f933fb,PROBLEM,Multiply or Divide.,5 * 2(-3)(-5),http://4.bp.blogspot.com/-Q2yk3komulc/UJKYEi8koRI/AAAAAAAACf0/LoKaGCdZhrk/s1600/ex01-0204.PNG
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,6f0989d5-d1c7-4328-b7d8-634859c8c1c0,PROBLEM,Multiply or Divide.,(-1)(-1)(-1)(-1),http://4.bp.blogspot.com/-AbtlHlYlweg/UJKYInrBliI/AAAAAAAACf8/FRwCkjl1ALw/s1600/ex01-0205.PNG
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,48f6331a-dfa2-40e0-819f-fd5e2b913847,PROBLEM,Multiply or Divide.,54 ÷ (-2),http://4.bp.blogspot.com/-oV9H4E6LjFE/UJKYSUMoIXI/AAAAAAAACgM/bx12PGZNkvg/s1600/ex01-0207.PNG
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,ab0074a5-3525-4154-ab30-858269e3149a,PROBLEM,Multiply or Divide.,-100 ÷ (-25),http://1.bp.blogspot.com/-sos3Ufy6SLk/UJKYXaisG3I/AAAAAAAACgU/WOkWSxA_rq4/s1600/ex01-0208.PNG
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,b450b8d3-1e3b-497c-af45-09215fb9736a,RULE,,Dividing by zero is _.,undefined
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,e2b1ea4f-3e4d-467d-8a77-0b9cc7e165e4,RULE,,Zero and Division,"http://3.bp.blogspot.com/-o90Ih6Sbjno/UJKY-ZyKqOI/AAAAAAAACgc/7_zVC96WgjA/s1600/graphic01-0201.PNG
+http://4.bp.blogspot.com/-p2HhUJEFQic/UJKZDGYV3YI/AAAAAAAACgk/frtbzGYi34k/s1600/graphic01-0202.PNG"
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,02003f19-7d4e-4d07-8fb4-618d71bdd915,PROBLEM,Divide.,0 ÷ (-15),http://1.bp.blogspot.com/-OXqvGgXHSdI/UJKZPfcHIrI/AAAAAAAACgs/Kbnlx29G_Mo/s1600/ex01-0210.PNG
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,b53c6edd-3e77-47b9-bb81-bf2f74dafaa0,PROBLEM,Divide.,4 ÷ 0,http://2.bp.blogspot.com/-C2By7eAt3ZI/UJKZT2Fb5yI/AAAAAAAACg0/2T8mG10dptg/s1600/ex01-0211.PNG
+1 - Real Numbers and Their Operations,1.3 Multiplying and Dividing Integers,a06e7786-09c4-4745-a603-aacc4692be87,PROBLEM,Divide.,0 ÷ 0,http://2.bp.blogspot.com/-xKlwcTfK7Dg/UJKZXw1BoyI/AAAAAAAACg8/y8EQ5PUOBkA/s1600/ex01-0212.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,b455b225-a9b7-44b0-a001-0b6ac378419f,DEFINITION,,fraction,"(or ""rational number""); a real number that can be written as a quotient, or ratio, of two integers
+
+http://3.bp.blogspot.com/-L3X4ErmHT9I/UJKfxQK7xVI/AAAAAAAAChg/wmenG3NubnU/s1600/ex01-0401.PNG"
+1 - Real Numbers and Their Operations,1.4 Fractions,3b798e46-1a3b-4198-9751-968a8f61aadc,LESSON,,reduce fractions to lowest terms (cancel common factors),"Fractions in lowest terms have no common factors in the numerator and denominator other than 1.
+
+http://4.bp.blogspot.com/-YK_3Z73pzPM/UJKf7k5iljI/AAAAAAAAChw/mSDDco9hBKA/s1600/ex01-0403.PNG"
+1 - Real Numbers and Their Operations,1.4 Fractions,61c3960b-2654-40eb-82af-9a7873fc7e80,LESSON,,reduce fractions to lowest terms (GCF),"Identify the greatest common factor (GCF) of the numerator and denominator and then divide both by that number.
+
+http://4.bp.blogspot.com/-mCXVpsEh63Q/UJKgAiRad8I/AAAAAAAACh4/YDwSaWZliYg/s1600/ex01-0404.PNG"
+1 - Real Numbers and Their Operations,1.4 Fractions,f1065767-949b-41f8-bdd3-31c38ce6310c,DEFINITION,,improper fraction,a fraction where the numerator is larger than the denominator
+1 - Real Numbers and Their Operations,1.4 Fractions,032045a0-2b10-4d46-8029-6933aa4236d6,LESSON,,convert an improper fraction to a mixed number,"To convert an improper fraction to a mixed number, simply divide. The quotient is the whole number part and the remainder is the new numerator.
+
+http://4.bp.blogspot.com/-iIBaEf-2gJ8/UJKgHZUSJ8I/AAAAAAAACiA/uVA8x23oJrA/s1600/ex01-0407b.PNG"
+1 - Real Numbers and Their Operations,1.4 Fractions,3b271e80-68c1-424a-acb8-d7f67074a988,PROBLEM,Reduce.,78/546,http://1.bp.blogspot.com/-hRPuiVTWuQ0/UJKgNeU0qHI/AAAAAAAACiI/Bj6tXhCTkGM/s1600/ex01-0407.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,46a17254-4c90-4aa8-b30b-20e0132b0cc9,PROBLEM,Reduce.,105/300,http://2.bp.blogspot.com/-lpg-TKoQ5w4/UJKgRz7j5iI/AAAAAAAACiQ/jTdssbJ9ua4/s1600/ex01-0406.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,c8164f54-a2bf-4235-ba93-82250a95b546,PROBLEM,Reduce.,30/70,http://3.bp.blogspot.com/-K4ThBUwgLhg/UJKgWJywoJI/AAAAAAAACiY/5x6XxSYzcuM/s1600/ex01-0405.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,c22d0d62-664b-4e31-a782-a8735658945d,PROBLEM,Reduce.,135/30,http://2.bp.blogspot.com/-NfTZGEyuizg/UJKgaqqlHdI/AAAAAAAACig/RRbfazRqvdE/s1600/ex01-0408.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,c95892e6-937f-424b-9a20-003843a91e31,PROBLEM,Reduce.,600/30,http://2.bp.blogspot.com/-E1MBRTopqLk/UJKgeqEUoeI/AAAAAAAACio/2PYuLDxcrDY/s1600/ex01-0409.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,73279a26-1cfb-4046-8458-66e35c8242f2,PROBLEM,Reduce.,165/45,http://3.bp.blogspot.com/-1opEIEVc_T4/UJKgiUIg2lI/AAAAAAAACiw/zkcvyuz_XCc/s1600/ex01-0410.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,32ba87bb-42f6-43a8-b2bc-849ab32f71fa,LESSON,,multiply fractions,"To multiply fractions, you multiply the numerators and the denominators. NO COMMON DENOMINATOR is required.
+
+When multiplying, look for factors to cancel before actually multiplying the numerators and denominators.  This will eliminate the need to reduce the end result.
+
+http://3.bp.blogspot.com/-CTphtdTWTAU/UJKgx5aKO_I/AAAAAAAACi4/P1u-mtOYR6E/s1600/ex01-0411.PNG"
+1 - Real Numbers and Their Operations,1.4 Fractions,b41c2464-705a-47ed-9837-81b03a96b9f7,LESSON,,divide fractions,"To divide fractions, you multiply the numerator by the reciprocal of the divisor.
+
+http://2.bp.blogspot.com/-QbCJCdCd7yI/UJKg3FvRSdI/AAAAAAAACjA/NQaurSmTCJw/s1600/ex01-0412.PNG"
+1 - Real Numbers and Their Operations,1.4 Fractions,55e59b3d-cee0-44a7-b2c6-5d3ea1e884bd,PROBLEM,Multiply or Divide.,2/3 * 5/7,http://4.bp.blogspot.com/-Ni8B2oveeZc/UJKhV17RDCI/AAAAAAAACjI/6pEEmb0jkg8/s1600/ex01-0413.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,65cfcc01-dc98-4ce5-8156-4661fa561508,PROBLEM,Multiply or Divide.,1/5 * 4/8,http://2.bp.blogspot.com/-4bpFNjTmt40/UJKhatr3cGI/AAAAAAAACjQ/hAWkd5vA1CI/s1600/ex01-0414.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,9c5fc488-54b7-48a0-9c58-46aa074d913f,PROBLEM,Multiply or Divide.,1/2 * 1/3,http://4.bp.blogspot.com/---ItrJY2xKg/UJKheFikoYI/AAAAAAAACjY/cUhOIv-OCi8/s1600/ex01-0415.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,ad7d8182-b256-4236-99e4-e3f3bb5a117d,PROBLEM,Multiply or Divide.,5/7 * 49/10,http://1.bp.blogspot.com/-PRR-2QmW9S0/UJKhiN02GwI/AAAAAAAACjg/eH6MXLsklKA/s1600/ex01-0416.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,a4dbf2d1-b077-40ed-992d-13b7342d0510,PROBLEM,Multiply or Divide.,2/3 * 9/12,http://2.bp.blogspot.com/-8wTvqAKT9gQ/UJKhlrKzqHI/AAAAAAAACjo/guMlm56h5pA/s1600/ex01-0417.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,7022a08e-ed35-416b-b776-966530a8621c,PROBLEM,Multiply or Divide.,6/14 * 21/12,http://4.bp.blogspot.com/-rMhrk42bVog/UJKhpwuYgXI/AAAAAAAACjw/GAj-q0MlnUU/s1600/ex01-0418.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,2922751e-f0f6-49f3-aa04-4387f087f29a,PROBLEM,Multiply or Divide.,1/2 ÷ 2/3,http://3.bp.blogspot.com/-4cTiJp1zMnQ/UJKhujLjWvI/AAAAAAAACj4/t6MZyYGtox4/s1600/ex01-0419.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,d05ddaf7-f20a-417c-85da-b05bbd03bbd4,PROBLEM,Multiply or Divide.,5/9 ÷ 1/3,http://2.bp.blogspot.com/-mFRVssRpiY4/UJKhyiS1auI/AAAAAAAACkA/CG_EV_lTm9Q/s1600/ex01-0420.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,9049194a-f5a4-4cde-a09e-93f9d692fbd4,PROBLEM,Multiply or Divide.,1/2 ÷ 2,http://4.bp.blogspot.com/-eeFG2GF4yuQ/UJKh3rIBSQI/AAAAAAAACkI/-Wy18r3kEek/s1600/ex01-0421.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,c4c9c844-730b-4328-abc4-019f6c5575c2,LESSON,,convert mixed numbers to improper fractions,"Convert mixed numbers to improper fractions before you multiply or divide. To do this, multiply the denominator with the whole number then add the numerator, this will be the new numerator.
+
+http://4.bp.blogspot.com/-yy7azksJRvI/UJKiSm7CZ-I/AAAAAAAACkQ/kFAwnm-bzUM/s1600/ex01-0422.PNG"
+1 - Real Numbers and Their Operations,1.4 Fractions,271e9fab-5540-4ac3-8d27-ad36c5f8f438,PROBLEM,Divide.,2 1/2 ÷ 5/3,http://2.bp.blogspot.com/-xH9TyYv6GMc/UJKiY7iDEDI/AAAAAAAACkY/dWVqFVKUenM/s1600/ex01-0423.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,cbacb663-9f4e-4808-a615-2862c6ed53fc,PROBLEM,Divide.,4 2/3 ÷ 3 1/2,http://1.bp.blogspot.com/-SL7faCm9zQg/UJKidkevTvI/AAAAAAAACkg/Aif072TUJ_4/s1600/ex01-0424.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,246327b1-a102-4f8a-83d2-47c50ae51089,PROBLEM,Divide.,5 ÷ 2 3/5,http://4.bp.blogspot.com/-67L9HpmPr3o/UJKijE1zAaI/AAAAAAAACko/yQl2_R7p6sk/s1600/ex01-0425.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,a14eeced-2f0e-46d4-bc22-a3ca83b550d2,LESSON,,adding and subtracting fractions,"You will have to find the equivalent fractions with a common denominator before you can add or subtract them.
+
+Step 1: Determine the least common multiple of the denominators (LCD).
+Step 2: Multiply numerator and denominator by what you need to obtain equivalent fractions with that LCD.
+Step 3: Add the numerators and write the result over the common denominator.
+Step 4: Reduce if necessary.
+
+http://2.bp.blogspot.com/-nNh3r261e4Q/UJKjxvIz1jI/AAAAAAAAClg/b1_MNJPZxes/s1600/ex01-0432.PNG
+
+If fractions have a common denominator, simply add or subtract the values found in the numerator and write the result over the common denominator and reduce if necessary.
+
+http://2.bp.blogspot.com/-WCcHtH36IUE/UJKi7LNkO3I/AAAAAAAACk4/eHJ8Wgbosnw/s1600/ex01-0427.PNG
+
+http://3.bp.blogspot.com/-a-etRQWRb8U/UJKjAfe8D_I/AAAAAAAAClA/8LRGNalZRH8/s1600/ex01-0428.PNG"
+1 - Real Numbers and Their Operations,1.4 Fractions,d9ce4848-d308-4743-9b6a-68f014b30b42,PROBLEM,Add or subtract.,3/5 + 1/5,http://1.bp.blogspot.com/-hpElNRzknCY/UJKjQd-HFEI/AAAAAAAAClI/dGRyRW2b8Q0/s1600/ex01-0429.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,c6d6a69e-b5e3-406c-b04b-b582638c2a18,PROBLEM,Add or subtract.,17/20 - 5/20,http://2.bp.blogspot.com/-F-s-xpq632Y/UJKjV5QWltI/AAAAAAAAClQ/SKYBiFgg2Wk/s1600/ex01-0430.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,fc34408b-faca-4e7e-b83d-ec0f67ae7e6c,PROBLEM,Add or subtract.,5/7 - 2 1/7,http://1.bp.blogspot.com/-MvTQ3QxCdqs/UJKjaUJDCkI/AAAAAAAAClY/Zi4xb60HnT8/s1600/ex01-0431.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,cd3deda8-99d1-4378-a5c9-684e7b155155,PROBLEM,Add or subtract.,1/5 + 2/3,http://3.bp.blogspot.com/-6oRrY2I9A0I/UJKj3SASO7I/AAAAAAAAClo/5uJdY7mABBM/s1600/ex01-0434a.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,5c16f0bf-f693-4f3d-b7a4-fa7caa7b50d9,PROBLEM,Add or subtract.,1/2 + 1/3,http://4.bp.blogspot.com/-6OBBvUb3Doo/UJKj8b83kdI/AAAAAAAAClw/zVvBEMTHvaQ/s1600/ex01-0433.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,987cfec2-b927-49ee-92ad-790c1d6fc585,PROBLEM,Add or subtract.,2/7 - 3/5,http://4.bp.blogspot.com/-wkdKp0V6cqE/UJKj_8y8KEI/AAAAAAAACl4/5pi0EwZ0zgA/s1600/ex01-0434.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,fc572bca-0537-4dc7-be5a-0def087ca8a2,PROBLEM,Add or subtract.,3/10 + 2/14,http://3.bp.blogspot.com/-LwsJv2KA7LQ/UJKkEH5IQtI/AAAAAAAACmA/8Hekl-JrGkU/s1600/ex01-0435.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,94a0759f-7ccb-42c5-ab5d-5c89e5b7f3aa,PROBLEM,Add or subtract.,2/30 + 5/21,http://2.bp.blogspot.com/--gRBIiuEYzw/UJKkI3Ge6wI/AAAAAAAACmI/ryfpM4K7ko0/s1600/ex01-0436.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,55f69e87-3209-4e04-a670-06e92f279b03,PROBLEM,Add or subtract.,3/18 - 1/24,http://2.bp.blogspot.com/-n_5h9rWSK6w/UJKkNYs5e_I/AAAAAAAACmQ/ZxfJvb3496w/s1600/ex01-0437.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,cad3af3d-398d-433f-8558-058e35d72249,PROBLEM,Division Word Problem,A board that is 5 1/4 feet long is cut into 7 pieces of equal length. What is the length of each piece?,http://3.bp.blogspot.com/-nM4OaNvAxGY/UJKkh9W16KI/AAAAAAAACmY/vqKqgehNHkY/s1600/ex01-0438.PNG
+1 - Real Numbers and Their Operations,1.4 Fractions,3b2ac417-97bb-4d47-be38-629599d125e8,PROBLEM,Multiplication Word Problem,A muffin recipe calls for 1 2/3 cups of flour to make 4 muffins.  How many cups of flower does the recipe require if you wish to make 16 muffins?,http://4.bp.blogspot.com/-3Qxa8PTEZl0/UJKkpoCNklI/AAAAAAAACmg/ar2u_4llSVo/s1600/ex01-0439.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,89519b5f-1a3b-42a9-a7b0-34f47d4ae57a,DEFINITION,,percent,http://3.bp.blogspot.com/-r5MEmibC-ks/UJLYgs09-gI/AAAAAAAACnY/vWovW9Dzgd4/s1600/ex01-0501.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,ed000da1-42d9-4f27-87f1-5b5690dbda73,LESSON,,convert percentages to fractions,"Write the number over 100 and eliminate the percent symbol %, then reduce if necessary.
+
+http://1.bp.blogspot.com/-t55dbFImVd0/UJLYrrQXo_I/AAAAAAAACng/OwUGDCRigUQ/s1600/ex01-0502.PNG
+
+To find a decimal equivalent divide.
+
+http://2.bp.blogspot.com/-8hMv3fjKBII/UJLY4Lgxz9I/AAAAAAAACno/wf5ncP5BoGg/s1600/ex01-0503.PNG"
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,2dd1432e-2790-4e07-a430-2b740116436d,LESSON,,convert percentages to decimals,"Moving the decimal over 2 places to the left.
+
+http://3.bp.blogspot.com/-VFRZM1LbgTI/UJLY-7AeAnI/AAAAAAAACnw/wMnokxyGKcE/s1600/ex01-0504.PNG
+
+This works because a percent is part of 100 and dividing by 100 simply moves the decimal two places.
+
+http://3.bp.blogspot.com/-jPHqAniJo5o/UJLZMIC-mWI/AAAAAAAACn4/ZL9Xtmij6ek/s1600/ex01-0505a.PNG"
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,73fa0426-c14a-4c62-8c13-92948cd6d386,PROBLEM,Rewrite as a decimal.,89%,http://3.bp.blogspot.com/-NV5yhoyGlzQ/UJLZ16PcCuI/AAAAAAAACoA/0pNd6OAFzmQ/s1600/ex01-0506.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,c98a06da-f2fd-4af8-9c37-42dc09f5a638,PROBLEM,Rewrite as a decimal.,1 1/5%,http://3.bp.blogspot.com/-CSa70cVROy0/UJMhUhgO1II/AAAAAAAACo0/HytgaDjeWEQ/s1600/ex01-0509.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,b8c6aacc-1861-455e-bc55-9fcdf8d6b490,PROBLEM,Rewrite as a decimal.,50 3/4%,http://1.bp.blogspot.com/-5AHjxGfCSkU/UJMhZNni5MI/AAAAAAAACo8/mKRKmf_5gqA/s1600/ex01-0510.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,5c6929a9-606f-4078-94bc-38e8b9dc007e,PROBLEM,Rewrite as a decimal.,23.62%,http://2.bp.blogspot.com/-phpfE7hkKgM/UJMheN67_rI/AAAAAAAACpE/N4hFDut2Sbg/s1600/ex01-0511.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,df7752ea-d023-47f9-aa74-875da7a3cd75,PROBLEM,Rewrite as a decimal.,500%,http://1.bp.blogspot.com/-dG3PqY-nrZ0/UJMhiX1rJ4I/AAAAAAAACpM/cmZhAkF-LZw/s1600/ex01-0512.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,0f049d19-beb2-4931-8c94-d0c35d8afb71,PROBLEM,Rewrite as a decimal.,0%,http://1.bp.blogspot.com/-jYgFjGwKkS8/UJMhmamX0DI/AAAAAAAACpU/P1FmvvxYsEY/s1600/ex01-0513.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,0bc3614d-b5c3-4bec-bf93-cf15659191d8,PROBLEM,Rewrite as a decimal.,20 1/3%,http://2.bp.blogspot.com/-6WwzKvvwvXs/UJMhqNv1fWI/AAAAAAAACpc/xvsqhbsQBJo/s1600/ex01-0514.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,52fb0a4a-a891-4285-a853-58f9291e2d1c,LESSON,,write a decimal as a percent,"To write a decimal as a percent, you can multiply by 1 = 100%. For example,
+
+http://2.bp.blogspot.com/-jTRQZbPErQ4/UJMiHvhi7nI/AAAAAAAACpk/IToxKA5n7kE/s1600/ex01-0516b.PNG
+http://2.bp.blogspot.com/-DaR7AXe-huM/UJMiO6RKL8I/AAAAAAAACps/WrPXd1SAeDU/s1600/ex01-0516a.PNG
+
+This can be done quickly by moving the decimal to the right two places.  One way to remember how to convert between decimals and percents is to use the letters D and P in alphabetical order and the following illustration.
+
+http://4.bp.blogspot.com/-wwxcCZ0i29E/UJMidlZ_A5I/AAAAAAAACp0/1KXY134taWU/s1600/ex01-0515.PNG
+
+If you have a decimal the illustration shows to move the decimal two places to the right. If you have a percent the illustration shows to move the decimal two places to the left."
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,7a624f3e-fccb-45ad-b35c-0e6e8d3ff58f,PROBLEM,Re-write as a percent.,0.07,http://4.bp.blogspot.com/-YIRvo4PMobk/UJMil1B_gRI/AAAAAAAACp8/4D6La6S9swE/s1600/ex01-0522.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,dfee63f9-ad1f-4ec1-a5ad-43b308db42ba,PROBLEM,Re-write as a percent.,0.97,http://2.bp.blogspot.com/-QPcEItSBZHc/UJMiqVugMfI/AAAAAAAACqE/IOvy5Jpj1kE/s1600/ex01-0523.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,6a8fd00c-452f-43a1-ab48-8f1db3194d77,PROBLEM,Re-write as a percent.,2.34,http://3.bp.blogspot.com/-3zIdky-0sVo/UJMivFk6vqI/AAAAAAAACqM/vacEY5NaLJA/s1600/ex01-0524.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,2bb70fa3-475d-419d-ab32-593970ad9cf8,PROBLEM,Re-write as a percent.,1/5,http://1.bp.blogspot.com/-wPawmz4LUbk/UJMizsQJQQI/AAAAAAAACqU/tHoYEhqfoVE/s1600/ex01-0525.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,12a4acf6-0aed-433e-be95-b4aff5c820f1,PROBLEM,Re-write as a percent.,25/8,http://4.bp.blogspot.com/-WutSn24ISCY/UJMi39ge2qI/AAAAAAAACqc/xrfhGs3e_Vs/s1600/ex01-0526.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,785a35be-35b9-4cf3-80a1-cd98e87938f3,PROBLEM,Re-write as a percent.,3 1/4,http://4.bp.blogspot.com/-SfnMObrFTug/UJMi7uDZO3I/AAAAAAAACqk/H7K7bxR8HC8/s1600/ex01-0527.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,75f6231c-5464-4c8a-a718-71b5cf20ce12,PROBLEM,Re-write as a percent.,17/50,http://1.bp.blogspot.com/-3-Ec3rVevmU/UJMjABhrO8I/AAAAAAAACqs/o7w8NXj-nL0/s1600/ex01-0528.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,31778187-be0a-43f0-933f-bbabe032d062,PROBLEM,Re-write as a percent.,2/3,http://2.bp.blogspot.com/-d_T1E3PhmYY/UJMjGdXS1dI/AAAAAAAACq0/b3CcworphWY/s1600/ex01-0529.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,6a6e6c0b-c09c-4478-b8f3-d7d82f233c21,PROBLEM,Re-write as a percent.,3,http://1.bp.blogspot.com/-zPjmXE9zxdM/UJMjLJAZRqI/AAAAAAAACq8/wp1eSwfA8gM/s1600/ex01-0530.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,b467517e-5374-4dfe-9afe-6b67248a6c47,LESSON,,converting percents to fractions and reduce,"Converting percents to fractions there really is no easy trick.  The idea is to use the definition and then reduce.  You must remember that a percent is a part of 100.
+
+http://4.bp.blogspot.com/-PheM16Sav1w/UJMjiKEMo7I/AAAAAAAACrE/-eKziFq7Pqo/s1600/ex01-0531.PNG
+
+http://2.bp.blogspot.com/-xv0NhsKF_zs/UJMjnTaE4FI/AAAAAAAACrM/ZwI2H-Jr6AA/s1600/ex01-0532.PNG"
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,b0800d28-aae0-4826-abb9-401027b91a16,PROBLEM,Re-write as fractions.,50%,http://2.bp.blogspot.com/-G0Mbkmy6AGk/UJMjvI0leEI/AAAAAAAACrU/M-DzZmANbDo/s1600/ex01-0533.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,c1bcf6f9-4b06-46ea-a15f-38e3f92114b5,PROBLEM,Re-write as fractions.,32%,http://1.bp.blogspot.com/-U97VS9H-qEU/UJMjzEtJaqI/AAAAAAAACrc/BovjXG28RGA/s1600/ex01-0534.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,6895bee4-66a9-4b11-bb26-9ca5f945f417,PROBLEM,Re-write as fractions.,400%,http://1.bp.blogspot.com/-lQ4gIG_07Cc/UJMj3M1mHxI/AAAAAAAACrk/iYe4VN_z4IE/s1600/ex01-0535.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,6a2a5414-6ae2-45c0-902d-903e7ab097dd,PROBLEM,Re-write as fractions.,33 1/3%,http://4.bp.blogspot.com/-Cs2KIWn6yls/UJMj_kYe2mI/AAAAAAAACr0/0cn8Ok3BmJU/s1600/ex01-0537.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,6a60547e-ec26-47ad-9f42-19cc14a991c1,PROBLEM,Re-write as fractions.,3 7/31%,http://3.bp.blogspot.com/-y6LsM35H9ck/UJMkEZ7MGqI/AAAAAAAACr8/pB-Itpawf2s/s1600/ex01-0538.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,923b914f-98a5-45cf-beed-dd45e6769a12,PROBLEM,Re-write as fractions.,5 5/7%,http://4.bp.blogspot.com/-9ttTI7zDEmM/VB28la8F2pI/AAAAAAAALT4/qBC3GVVBG_I/s1600/percent2.png
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,ff537ed0-b7d1-4060-aa86-601f0a1f50b2,PROBLEM,Tax,A calculator is advertised at $12.99 plus a 7.5% sales tax.  What is the total including tax?,http://2.bp.blogspot.com/-yxY2La_JEas/UJMkXv3G9ZI/AAAAAAAACsE/6ix4kCzFbYQ/s1600/ex01-0539.PNG
+1 - Real Numbers and Their Operations,1.5 Review of Decimals and Percents,52242e0c-cfea-481a-a034-5d3b4c7e472a,PROBLEM,Tip,"After a nice dinner out, the bill came to $35.75.  For good service you wish to leave a 15% tip.  What is the total including the tip?",http://1.bp.blogspot.com/-HfC5VKnzES4/UJMkdoqEdJI/AAAAAAAACsM/IxcDpUzx-Gs/s1600/ex01-0540.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,7fb86f64-745d-413b-97f2-f2264d0a442c,LESSON,,square a number,"To square a number means to multiply that number times itself.  For example:
+
+http://3.bp.blogspot.com/-hzTZTLSSddI/UJMoeoDQ0jI/AAAAAAAACs4/XOdwGRnNa2E/s1600/ex01-0601.PNG
+
+The number 5 is called the base and the integer 2 is called the exponent. Another way to read the above example is ""5 raised to the second power."""
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,b1402ed7-59ad-49e5-9a02-97ed758b1a51,PROBLEM,Simplify.,(-3)^2,http://1.bp.blogspot.com/-LBC_oG6fy6w/UJMokfOvBkI/AAAAAAAACtA/uzOhDv79AwI/s1600/ex01-0602.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,2d1ddfef-d378-4894-8745-4cc11ae4b916,PROBLEM,,(1.2)^2,http://4.bp.blogspot.com/-kKOz4knXLMc/UJMongyjYjI/AAAAAAAACtI/KPKcw_wrk2E/s1600/ex01-0603.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,96694ff1-8b80-49cc-986b-5a77e717aebe,PROBLEM,,7^2,http://4.bp.blogspot.com/-wJzthqYz-Cc/UJMoqb1V24I/AAAAAAAACtQ/05ug9vg-ZNQ/s1600/ex01-0604.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,41a3de9d-4577-452d-b45b-b8574469feea,PROBLEM,,0^2,http://4.bp.blogspot.com/-LUAV7Yv9-Zg/UJMos4VBkUI/AAAAAAAACtY/OjPpOqcFfEY/s1600/ex01-0605.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,1e3ce237-6d93-45a6-8371-cc5e3a46adbe,PROBLEM,,-4^2,http://2.bp.blogspot.com/-U6beYEeDodc/UJMovwTd4oI/AAAAAAAACtg/Z4xZcGOBaWo/s1600/ex01-0606.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,a0032248-2208-4eb7-8b1a-a93660018b07,PROBLEM,,(-4)^2,http://1.bp.blogspot.com/-O2SvSvx7VX8/UJMoz-XhwrI/AAAAAAAACto/UbB-QRZ_9Oo/s1600/ex01-0607.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,0aa4c30a-2498-4222-ac31-6527ddf0d6c4,LESSON,,square root,"The square root can be thought of as the opposite of squaring a number.  In other words, if we want the square root of 16 the question is ""what number squared gives 16?""  Actually there are two answers to this question, 4 and −4 because:
+
+http://3.bp.blogspot.com/-e3GQoGPehxY/UJMpGWcMy0I/AAAAAAAACtw/QIMBrMFpHHA/s1600/ex01-0608.PNG
+
+Hence, there is a technical distinction here. When we are asked for the square root of numbers we mean the principal (non-negative) square root."
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,6081b00b-4c64-45f0-bc97-4d722e794734,PROBLEM,Simplify.,√64,http://3.bp.blogspot.com/-vCp8kX13vGQ/UJMpNO7-maI/AAAAAAAACt4/sVBKR59TEZg/s1600/ex01-0609.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,58e08bf7-524e-4624-b71d-781d3cd0f796,PROBLEM,Simplify.,√100,http://3.bp.blogspot.com/-y_kXwYXTNvA/UJMpRI_KX4I/AAAAAAAACuA/HuBG4jt2HEU/s1600/ex01-0610.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,ea97543d-3291-44b0-a460-e84e94d865ec,PROBLEM,Simplify.,√1,http://2.bp.blogspot.com/-ll4pPfjbDHo/UJMpUPeBZzI/AAAAAAAACuI/LVC4Fv0D6t8/s1600/ex01-0611.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,c5ca788f-35e2-42b0-bd53-f5537d85c1f0,PROBLEM,Simplify.,√0,http://1.bp.blogspot.com/-h1JogDYxPsU/UJMpX6u9PMI/AAAAAAAACuQ/tj81NV7E9Ck/s1600/ex01-0612.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,3aead0da-4c66-4c79-a2bb-7db2a8ae0ddf,PROBLEM,Simplify.,√50,http://3.bp.blogspot.com/-pgSnH6UGixQ/UJMpcKG9H9I/AAAAAAAACuY/XNVDuzyAVs4/s1600/ex01-0613.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,b223af2a-898c-42bf-b454-740e7cd28634,PROBLEM,Simplify.,√17,http://1.bp.blogspot.com/-AzyEvTrW9oQ/UJMpfyke86I/AAAAAAAACug/h6qkGxlGsDo/s1600/ex01-0614.PNG
+1 - Real Numbers and Their Operations,1.6 Exponents and Square Roots,f846a1eb-4f09-4edd-8385-936b8c5307ae,LESSON,,simplifying square roots,"If A and B are positive and real the following property is useful for simplifying square roots:
+
+http://1.bp.blogspot.com/-YO9Hyq92dAU/UJMpwLp2GaI/AAAAAAAACuo/DsYpFx5O0Xo/s1600/ex01-0615.PNG
+
+Look for the largest perfect square factor and the apply this property as follows:
+
+http://4.bp.blogspot.com/-iQewX0ErKtY/UJMp2pSx9oI/AAAAAAAACuw/ymDEYlt9lSo/s1600/ex01-0615a.PNG"
+1 - Real Numbers and Their Operations,1.7 Order of Operations,837aa3cd-48d5-449b-b47c-b79924efcfcc,LESSON,,order of operations,"When several operations are to be applied within a calculation, we must follow a specific order to ensure a single correct result.
+
+Order of Operations:
+- Perform all calculations within the innermost Parentheses first.
+- Evaluate Exponent expressions.
+- Apply the Multiplication and Division operations from left to right.
+- Lastly, work all Addition and Subtraction operations from left to right.
+
+http://4.bp.blogspot.com/-LtnwzWh7qC0/UJPcOAGkn4I/AAAAAAAACvg/bkX19UeQ5ac/s1600/ex01-0701.PNG"
+1 - Real Numbers and Their Operations,1.7 Order of Operations,92580588-4376-4e15-ad5e-75acd9786501,PROBLEM,Simplify.,3 + 2 * 3,http://3.bp.blogspot.com/-3IETuMO5C6k/UJPdGUVCypI/AAAAAAAACv4/h4fFkgE4Ajs/s1600/ex01-0703.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,5e55a07d-e77e-4f89-b785-93d9a0f2e9f8,PROBLEM,Simplify.,4 - 5 * 3,http://2.bp.blogspot.com/-bduHwWeY9oc/UJPdQeD012I/AAAAAAAACwA/aAkt0F9fK1E/s1600/ex01-0704.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,af6e17ca-5451-4d62-af32-abe38399ca94,PROBLEM,Simplify.,2 + 3(-2) - 7,http://3.bp.blogspot.com/-tBx-TEl42NA/UJPdUO8_lVI/AAAAAAAACwI/h0c3BCmTr48/s1600/ex01-0705.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,97ae598b-9145-487e-9c7f-40a9a56d5c01,PROBLEM,Simplify.,8 ÷ 2 - 3 * 2,http://4.bp.blogspot.com/-JBi5MGyopyg/UJPdXpWQqmI/AAAAAAAACwQ/KHuMpaNPtbU/s1600/ex01-0706.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,e2c6b97e-5371-4e69-b3bd-58e1d8b30096,PROBLEM,Simplify.,3 + 6^2 ÷ 12,http://4.bp.blogspot.com/-ZcyeXwcaMYE/UJPdbtkSoiI/AAAAAAAACwY/3muUNZWRis8/s1600/ex01-0707.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,e44b6abb-17c3-4c61-93ba-abc7d8afde03,PROBLEM,Simplify.,-2 - 3^2 + (-2)^2,http://3.bp.blogspot.com/-Dh4nj4Mj5WM/UJPdh2_HVlI/AAAAAAAACwg/OR0FsyZrsc0/s1600/ex01-0708.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,ea0a0eda-649d-4384-9423-b1ca9b9e2c37,PROBLEM,Simplify.,(-5)^2 - 2(5)^2 ÷ 10,http://2.bp.blogspot.com/-BlcSHGNR3DM/UJPdmlro6KI/AAAAAAAACwo/W3hdpWalvyw/s1600/ex01-0709.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,f42fc4fe-35fb-44f2-b8e2-798dd64c8d50,PROBLEM,Simplify.,-3(4 - 7) + 2,http://4.bp.blogspot.com/-G8VNi5ZZrBU/UJPdqnFLyKI/AAAAAAAACww/NkmyYfBpu90/s1600/ex01-0710.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,17279951-ea19-4195-9403-cc14d1e71ac4,PROBLEM,Simplify.,(-2 + 7)^2 - 10^2,http://3.bp.blogspot.com/-XtZRyC2Xgnc/UJPduTF_pbI/AAAAAAAACw4/pYjLJr_Oids/s1600/ex01-0711.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,edeb8939-a40d-4627-992f-edf931261426,PROBLEM,Simplify.,10 - 7(3 + 2) + 7^2,http://3.bp.blogspot.com/-5TjV9oNC-K8/UJPdy_aYhlI/AAAAAAAACxA/z5Di8uVDFP8/s1600/ex01-0712.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,0cf011de-376b-4bbd-8e5e-899f12fe0c90,PROBLEM,Simplify.,-7 - 3(4 - 2 * 8),http://1.bp.blogspot.com/-rReMwnqvK64/UJPd2jGzlaI/AAAAAAAACxI/q4AlwCTeDr8/s1600/ex01-0713.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,d23b6836-f480-4793-a4b2-08a8ecbc5472,PROBLEM,Simplify.,2 - 7(3^2 - 3 + 4 * 3),http://2.bp.blogspot.com/-5EwToH5bLq4/UJPd64L7p1I/AAAAAAAACxQ/jtHHvUwJcmM/s1600/ex01-0714.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,16c4f44d-bb92-41af-9929-edb2bc67ac1c,LESSON,,order of operations with fractions,"Order of operation problems get a bit more tedious when fractions are involved. Remember that when adding or subtracting fractions you need to first find the equivalent fractions with a common denominator. Multiplication does not require a common denominator.
+
+http://3.bp.blogspot.com/-0HJybMNKwOY/UJPeh7jgIHI/AAAAAAAACxY/DRGkKEQUfQw/s1600/ex01-0715.PNG
+
+http://4.bp.blogspot.com/-aKB5CYbFwm0/UJPelsAQrgI/AAAAAAAACxg/a0j7Sm1uySE/s1600/ex01-0716.PNG"
+1 - Real Numbers and Their Operations,1.7 Order of Operations,7666d615-a08f-4944-8191-66e1d22f05f4,PROBLEM,Simplify.,1/3 + 1/2 * 1/5,http://1.bp.blogspot.com/-uO7FB6KO9PM/UJPfPZyBrZI/AAAAAAAACxo/cHjtf3oT-4o/s1600/ex01-0717.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,030f17f7-3dc8-438b-9d39-d014ccb0d0bc,PROBLEM,Simplify.,5/8 ÷ 3/2 * 14/15,http://4.bp.blogspot.com/-99cKzwgkDH0/UJPfTREFo5I/AAAAAAAACxw/uEoMnfqPlJ8/s1600/ex01-0718.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,b1011567-8a05-4b8a-9951-b01418ead4bb,PROBLEM,Simplify.,5 * 2/15 - (1/2)^3,http://4.bp.blogspot.com/-GWS4IKG8MVw/UJPfXOujSMI/AAAAAAAACx4/pWAEnQq3MhA/s1600/ex01-0719.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,7c62e888-31ee-4eff-a5fd-d8c295474e9c,PROBLEM,Simplify.,5/17(3/5 - 4/35),http://3.bp.blogspot.com/-lRhQDTGmgcA/UJPfbdHuzMI/AAAAAAAACyA/EJSBarPDrYU/s1600/ex01-0720.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,b74da981-7391-405f-91de-5ff5399d3f2d,PROBLEM,Simplify.,3/16 ÷ (5/12 - 1/2 + 2/3) * 4,http://1.bp.blogspot.com/-OWP0GJJwcR0/UJPffssvcsI/AAAAAAAACyI/1p4bb2-l_3E/s1600/ex01-0721.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,82acb4b1-57a7-4bed-bd5d-0fc7414cd3f1,PROBLEM,Simplify.,(2/3)^2 - (1/2)^3,http://2.bp.blogspot.com/-0yf9V3pPqys/UJPfj_eQJOI/AAAAAAAACyQ/Fwr9SDJW4GQ/s1600/ex01-0722.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,75ede007-94d6-4c54-994b-eb03b2eee0f7,PROBLEM,Simplify.,(2 + 3 * 6 - 4 * 3)/(2^2 - 3^2),http://3.bp.blogspot.com/-eoR8qSyPxzk/UJPfny0JxyI/AAAAAAAACyY/iOLKj6srfjs/s1600/ex01-0723.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,7f056905-29c5-4201-8674-9c934e4763d3,PROBLEM,Simplify.,((2 + 7) * 2 - 2^3)/(10 + 9^2 + 3^2),http://4.bp.blogspot.com/-dt6_Bv1qy94/UJPfsqhl06I/AAAAAAAACyg/aiBFEyoglVA/s1600/ex01-0724.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,5dfd988a-cc57-44b9-864f-a6b2efc8247a,PROBLEM,Simplify.,((-1 - 3)^2 - 15)/(-3 * (-7 + 2^2) - 5),http://1.bp.blogspot.com/-0VBfNVnCYQQ/UJPfwrRpPuI/AAAAAAAACyo/1UgSdFj2ia0/s1600/ex01-0725.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,ee8c5ab1-c379-4a7b-a303-6217c036fc57,LESSON,,order of operations with absolute values,"Some problems may involve an absolute value, in which case you will need to apply the innermost absolute value first as you would if it were a parentheses.
+
+http://1.bp.blogspot.com/-Pi2ihihsDpc/UJPgfU08ddI/AAAAAAAACy4/NgFVuPaebWo/s1600/ex01-0727.PNG"
+1 - Real Numbers and Their Operations,1.7 Order of Operations,6d3c05b4-972d-45e0-9381-5eae4a1b133e,PROBLEM,Simplify.,5 - 3[6 - (2 + 7)],http://3.bp.blogspot.com/-sQmjtOPlhN8/UJPgwoOzndI/AAAAAAAACzI/-8SMJ6Te73c/s1600/ex01-0730.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,59d04f46-f818-4476-a805-694f4e4a391e,PROBLEM,Simplify.,1 + 2[(-2)^3 - (-3)^2],http://1.bp.blogspot.com/-1Mvde8-9TuI/UJPg1DF3bQI/AAAAAAAACzQ/L45bXSN7KZw/s1600/ex01-0731.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,d66f1c46-7c77-4717-9802-4a3918661164,PROBLEM,Simplify.,-3[2(7 - 5) ÷ 4 * (-2) + (-3)^3],http://2.bp.blogspot.com/-FD2oQ6pkV9g/UJPg4qDdsUI/AAAAAAAACzY/Rz_k-7ATtsU/s1600/ex01-0732.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,e8471fac-a9b0-4f1c-bae9-38ee360a3764,PROBLEM,Simplify.,1/2[3/4 * (-4)^2 - 2]^2,http://2.bp.blogspot.com/-384abOzwcE8/UJPg8TzwpuI/AAAAAAAACzg/206KERKYMY0/s1600/ex01-0733.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,70ea6b45-a955-41a6-a4ec-af0dd8da40ae,PROBLEM,Simplify.,6 * [(2/3)^2 - (1/2)^2] ÷ (-5)^2,http://2.bp.blogspot.com/-YUAoTg3UeW4/UJPg_y2AdPI/AAAAAAAACzo/8eOiMHz9atE/s1600/ex01-0734.PNG
+1 - Real Numbers and Their Operations,1.7 Order of Operations,9c890584-582a-467e-8f50-ff794f8463f7,PROBLEM,Simplify.,-7^2 - [-20 - (-3)^2] - (-10),http://1.bp.blogspot.com/--_-xj4iaYkE/UJPhDnwNTfI/AAAAAAAACzw/hzm3sCxd3Ug/s1600/ex01-0735.PNG

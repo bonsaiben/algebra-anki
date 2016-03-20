@@ -6,6 +6,16 @@ A flashcard deck for studying algebra with Anki.
 - `anki_algebra.txt` - output of csv_to_notes.rb, a textfile importable to Anki
 - `media/` - images included in the deck
 
+### Todo
+
+- [x] ~~Chapter 1 - Real Numbers and Their Operations~~
+- [ ] Chapter 2 - Linear Equations and Inequalities
+- [ ] Chapter 3 - Graphing Lines
+- [ ] Chapter 4 - Solving Linear Systems
+- [ ] Chapter 5 - Polynomials and Their Operations
+- [ ] Chapter 6 - Factoring and Solving by Factoring
+- [ ] Chapter 7 - Rational Expressions and Equations
+
 ### What is Anki?
 
 [Anki](http://ankisrs.net/) is a spaced repetition flashcard program.
